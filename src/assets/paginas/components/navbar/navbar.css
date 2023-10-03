@@ -1,0 +1,16 @@
+.navbar{
+    height: 10vh;
+    background-color:#F9C2D8;
+    margin-top: 0;
+    display: flex;
+    justify-content: space-between;
+}
+.itens{
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
+
+.mokonas{
+    width:58px;
+}
