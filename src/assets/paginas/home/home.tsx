@@ -11,8 +11,8 @@ export default function Home() {
         <div className="home">
 
 
-
-
+        <p className="conteudo">Eu sou um conteúdo</p>
+        <img  src="https://pbs.twimg.com/media/FiQ_3vMVEAA0hDi?format=jpg&name=4096x4096" alt="" />
 
         </div>
 
